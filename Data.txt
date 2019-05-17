@@ -1,0 +1,1 @@
+('US Dollar is ', "['146,470']", ' Australia Dollar is ', "['101,480']", ' in Time ', "['۱۷:۰۱:۰۹']")
